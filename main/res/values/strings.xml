@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RV Checklist</string>
+    <string name="text_enter">add new item</string>
+    <string name="add_button">Add new checklist item</string>
+</resources>
